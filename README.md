@@ -18,6 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Add Https to Azure Web App with Let’s Encrypt](https://furotmark.github.io/Add-HTTPS-to-Azure-Web-App-With-Lets-Encrypt/)
+- [Add Git Bash To Visual Studio Top Bar](https://furotmark.github.io/Add-Git-Bash-To-Visual-Studio-Bar/)
+- [Creating a Wix Installer Patch from MSI](https://furotmark.github.io/Creating-A-Wix-Patch-From-MSI/)
+- [Jekyll Tag Generator for Github Pages](https://furotmark.github.io/Jekyll-Tag-Generator-For-Github-Pages/)
+- [Add Separator Line In System Tray Context-Menu Programatically](https://furotmark.github.io/Add-Separator-Line-In-System-Tray-Context-Menu/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
