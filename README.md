@@ -10,7 +10,7 @@
 - ❓ Ask me about .NET, PWA and related technologies  
   
 
-- 💡 I'm the creator of [egyketto.ro](egyketto.ro) a news aggregator site  
+- 💡 I'm the creator of [egyketto.ro](https://egyketto.ro) a news aggregator site  
   
 
 <br/>  
