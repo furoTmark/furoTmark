@@ -1,10 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Tamás, a software developer 👨‍💻</div>  
-  
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Tamás!
+ 
 
 - 💻 I’m currently working at [accesa](https://accesa.eu)  
   
