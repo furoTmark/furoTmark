@@ -18,11 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Update Asp.NET Core 3.1 create-react-app project to .NET 5](https://furotmark.github.io/Update-asp.net-core-3.1-create-react-app-to-dotnet-5/)
-- [Add Https to Azure Web App with Let’s Encrypt](https://furotmark.github.io/Add-HTTPS-to-Azure-Web-App-With-Lets-Encrypt/)
-- [Add Git Bash To Visual Studio Top Bar](https://furotmark.github.io/Add-Git-Bash-To-Visual-Studio-Bar/)
-- [Creating a Wix Installer Patch from MSI](https://furotmark.github.io/Creating-A-Wix-Patch-From-MSI/)
-- [Jekyll Tag Generator for Github Pages](https://furotmark.github.io/Jekyll-Tag-Generator-For-Github-Pages/)
+- [Update Asp.NET Core 3.1 create-react-app project to .NET 5](https://furotmark.github.io/2021/04/16/Update-asp.net-core-3.1-create-react-app-to-dotnet-5.html)
+- [Add Https to Azure Web App with Let’s Encrypt](https://furotmark.github.io/2020/10/01/Add-HTTPS-to-Azure-Web-App-With-Lets-Encrypt.html)
+- [Add Git Bash To Visual Studio Top Bar](https://furotmark.github.io/2020/06/05/Add-Git-Bash-To-Visual-Studio-Bar.html)
+- [Creating a Wix Installer Patch from MSI](https://furotmark.github.io/2019/12/11/Creating-A-Wix-Patch-From-MSI.html)
+- [Jekyll Tag Generator for Github Pages](https://furotmark.github.io/2018/12/21/Jekyll-Tag-Generator-For-Github-Pages.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
