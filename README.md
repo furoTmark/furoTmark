@@ -18,11 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Firestore Credential Initialization With AppSettings](https://furotmark.github.io/2021/12/29/Firestore-Credential-Initialization-With-AppSettings.html)
 - [Uno Platform development gotcha’s](https://furotmark.github.io/2021/10/24/Uno-Platform-Development-Gotchas.html)
 - [Update Asp.NET Core 3.1 create-react-app project to .NET 5](https://furotmark.github.io/2021/04/16/Update-asp.net-core-3.1-create-react-app-to-dotnet-5.html)
 - [Add Https to Azure Web App with Let’s Encrypt](https://furotmark.github.io/2020/10/01/Add-HTTPS-to-Azure-Web-App-With-Lets-Encrypt.html)
 - [Add Git Bash To Visual Studio Top Bar](https://furotmark.github.io/2020/06/05/Add-Git-Bash-To-Visual-Studio-Bar.html)
-- [Creating a Wix Installer Patch from MSI](https://furotmark.github.io/2019/12/11/Creating-A-Wix-Patch-From-MSI.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
