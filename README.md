@@ -1,10 +1,10 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Tamás!
  
 
-- 💻 I’m currently working at [accesa](https://accesa.eu)  
+- 💻 I’m currently working at [vacuumlabs](https://vacuumlabs.com)  
   
 
-- 🌱 I’m currently learning to manage a tech community  
+- 🌱 I’m currently learning a lot of new stuff
   
 
 - ❓ Ask me about .NET, PWA and related technologies  
