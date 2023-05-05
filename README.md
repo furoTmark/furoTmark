@@ -18,11 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [ASP.NET SPA Templates Proxy Changes From .NET 5 to .NET 6, .NET 7, and On](https://furotmark.github.io/2023/05/04/ASPNET-SPA-Templates-Proxy-Changes.html)
 - [Configuring Caddy v2 Server with Plex and Transmission](https://furotmark.github.io/2023/01/04/Configuring-Caddy2-With-Plex-And-Transmission.html)
 - [Creating an App with Flutterflow](https://furotmark.github.io/2022/10/09/Creating-An-App-With-Flutterflow.html)
 - [Firestore Credential Initialization With AppSettings](https://furotmark.github.io/2021/12/29/Firestore-Credential-Initialization-With-AppSettings.html)
 - [Uno Platform development gotcha’s](https://furotmark.github.io/2021/10/24/Uno-Platform-Development-Gotchas.html)
-- [Update Asp.NET Core 3.1 create-react-app project to .NET 5](https://furotmark.github.io/2021/04/16/Update-asp.net-core-3.1-create-react-app-to-dotnet-5.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
