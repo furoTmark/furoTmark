@@ -4,10 +4,10 @@
 - 💻 I’m currently working at [Luminos Labs](https://www.luminoslabs.com/)  
   
 
-- 🌱 I’m currently learning a lot of new stuff
+- 🌱 I’m always learning new stuff
   
 
-- ❓ Ask me about .NET, PWA and related technologies  
+- ❓ Ask me about Azure, .NET, PWA and related technologies  
   
 
 - 💡 I'm the creator of [egyketto.ro](https://egyketto.ro) a news aggregator site  
