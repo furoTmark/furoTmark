@@ -11,8 +11,8 @@
   
 
 - 💡 I'm the creator of [egyketto.ro](https://egyketto.ro) a news aggregator site  
-  
 
+- 📦I also created [Deploy to Optimizely](https://github.com/marketplace/actions/deploy-to-optimizely-dxp) github action and [ScheduledParameterJob.Opitimizely.v11 1.2.0](https://nuget.optimizely.com/package/?id=ScheduledParameterJob.Opitimizely.v11) Nuget Package.
 <br/>  
 
 
