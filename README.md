@@ -18,11 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Ajustarea setărilor de rețea în destinații exotice](https://furotmark.github.io/2025/01/14/Ramai-conectat-in-strainatate.html)
 - [AI Prompting 101](https://furotmark.github.io/2024/05/20/AI-Prompting-101.html)
 - [Calling Azure Service Bus from Azure API Management Service](https://furotmark.github.io/2023/10/24/Call-Service-Bus-From-API-Gateway.html)
 - [Remove subtitles automatically from video files](https://furotmark.github.io/2023/10/04/Remove-Subtitles-Automatically.html)
 - [ASP.NET SPA Templates Proxy Changes From .NET 5 to .NET 6, .NET 7, and On](https://furotmark.github.io/2023/05/04/ASPNET-SPA-Templates-Proxy-Changes.html)
-- [Configuring Caddy v2 Server with Plex and Transmission](https://furotmark.github.io/2023/01/04/Configuring-Caddy2-With-Plex-And-Transmission.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
