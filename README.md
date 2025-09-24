@@ -18,11 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Getting Thread Message History in Azure AI Foundry with Python](https://furotmark.github.io/2025/09/23/Azure-AI-Foundry-Message-History.html)
 - [Electric vs Gas Car Cost Calculator](https://furotmark.github.io/2025/06/02/Electric-vs-Gas-Cost-Calculator.html)
 - [Entity Framework Query Optimization](https://furotmark.github.io/2025/02/04/Entity-Framework-Query-Optimization.html)
 - [Ajustarea setărilor de rețea în destinații exotice](https://furotmark.github.io/2025/01/14/Ramai-conectat-in-strainatate.html)
 - [AI Prompting 101](https://furotmark.github.io/2024/05/20/AI-Prompting-101.html)
-- [Calling Azure Service Bus from Azure API Management Service](https://furotmark.github.io/2023/10/24/Call-Service-Bus-From-API-Gateway.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
