@@ -18,11 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Why do we use async-await in our Code](https://furotmark.github.io/2026/02/04/Why-Do-We-Use-Async-Await-In-Our-Code.html)
 - [Setup LangChain with Azure Foundry &lpar;new&rpar; model](https://furotmark.github.io/2025/12/12/Setup-Langchain-with-Azure-Foundry-(new)-model.html)
 - [How to Set a Retry Policy in Azure API Management &lpar;APIM&rpar;](https://furotmark.github.io/2025/10/07/Setting-APIM-Retry-Policy.html)
 - [Getting Thread Message History in Azure AI Foundry with Python](https://furotmark.github.io/2025/09/23/Azure-AI-Foundry-Message-History.html)
 - [Electric vs Gas Car Cost Calculator](https://furotmark.github.io/2025/06/02/Electric-vs-Gas-Cost-Calculator.html)
-- [Entity Framework Query Optimization](https://furotmark.github.io/2025/02/04/Entity-Framework-Query-Optimization.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
