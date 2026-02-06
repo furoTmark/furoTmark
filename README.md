@@ -18,11 +18,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Using an Agent Engine AI Agent from dotnet c#](https://furotmark.github.io/2026/02/05/Using-An-Agent-Engine-AI-Agent-From-Dotnet.html)
 - [Why do we use async-await in our Code](https://furotmark.github.io/2026/02/04/Why-Do-We-Use-Async-Await-In-Our-Code.html)
 - [Setup LangChain with Azure Foundry &lpar;new&rpar; model](https://furotmark.github.io/2025/12/12/Setup-Langchain-with-Azure-Foundry-(new)-model.html)
 - [How to Set a Retry Policy in Azure API Management &lpar;APIM&rpar;](https://furotmark.github.io/2025/10/07/Setting-APIM-Retry-Policy.html)
 - [Getting Thread Message History in Azure AI Foundry with Python](https://furotmark.github.io/2025/09/23/Azure-AI-Foundry-Message-History.html)
-- [Electric vs Gas Car Cost Calculator](https://furotmark.github.io/2025/06/02/Electric-vs-Gas-Cost-Calculator.html)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
